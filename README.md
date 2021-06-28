@@ -13,12 +13,12 @@ If you don't have them a makefile and a conf are in progress.
 
 ## Installation
 
-Once every requirement is intall you just have to put your data inside data/ repository and launch the following command line : 
+Once every requirement intalled you just have to put your data inside data/ repository and launch the following command line : 
 
 ```sh
 bash network_pip.sh
 ```
-If you want to test first, you can use the data in data/minitoy_Rsolanacearum/ repository.
+You can use the data in data/minitoy_Rsolanacearum/ repository to verify your installation.
 
 
 ## Results 
@@ -26,7 +26,7 @@ If you want to test first, you can use the data in data/minitoy_Rsolanacearum/ r
 You will found your results in repository you named previously using the pipe, inside result/ e.g. : result/Assimil_pkn
 
 ## Documentations 
-A user documentation is in progress curently.
+This repository still in progress. If you notice major issues do not hesitate to open an issue. 
 
 To go further in details : 
 
